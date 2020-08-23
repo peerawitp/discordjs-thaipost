@@ -2,7 +2,7 @@
 
 >Discord Bot include thaipost command for track parcel using ThaiPost API.
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
+[![Build Status](https://api.travis-ci.com/feelingzexe/discordjs-thaipost.svg?branch=master)](https://travis-ci.org/feelingzexe/discordjs-thaipost)
 
 ## Installation
 
