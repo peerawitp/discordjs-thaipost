@@ -1,0 +1,5 @@
+{
+    "PREFIX": "!",
+    "TOKEN": "discord_token_key",
+    "THAIPOST_API_KEY": "thaipost_api_token_key"
+}
