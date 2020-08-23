@@ -25,5 +25,4 @@ For example, after the bot is running, type !thaipost [PARCEL_ID] to use the com
 - [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot (Discord Music Bot)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 Please make sure to update tests as appropriate.
